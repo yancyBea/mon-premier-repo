@@ -14,5 +14,4 @@
 
 * texte au hasard
 [cliquer ici](https://www.google.fr/)
-<a name="ancre">
-    [retour en haut](#top)
+<a name="ancre"> [retour en haut](#top)
